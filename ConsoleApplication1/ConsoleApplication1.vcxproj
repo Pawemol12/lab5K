@@ -155,9 +155,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CompareTemplate.cpp" />
     <ClCompile Include="ImaginaryNumber.cpp" />
-    <ClCompile Include="Macierz.cpp" />
     <ClCompile Include="Pk5Kamil.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
